@@ -7,7 +7,7 @@ def create_an_array
 end 
 
 def add_element_to_end_of_array(array, element)
-  new_array.push("Tiger", "Elephant")
+  new_array.push(array, element)
 end 
 
 def using_include(array, element)
