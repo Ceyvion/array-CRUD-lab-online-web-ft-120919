@@ -38,6 +38,6 @@ def using_size(array)
  array.size()
 end
 
-def remove_element_from_end_of_array
+def remove_element_from_end_of_array(array)
   array.pop
 end
